@@ -1,7 +1,7 @@
 {
     "name": "apiverve/gasprices",
     "description": "Gas Prices returns average retail gasoline, diesel and LPG prices from official weekly government surveys for the US, the UK, all 27 EU countries and the EU average. Pass a country, or a US state, region or city, to get the latest week with week-over-week and year-over-year changes, in any currency, per liter or per gallon.",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "type": "library",
     "license": "MIT",
     "authors": [
